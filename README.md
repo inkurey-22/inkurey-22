@@ -1,6 +1,10 @@
 # Hello, I'm Théophile "Inkurey22" R. 👋
 
-I'm a first-year student at EPITECH, currently learning programming with languages like C and technologies like Docker
+- First year EPITECH Student
+- Learn computer science and programming with languages like C and technologies like Docker
+- Want to work in DevOps or Game Programming
+- Organize esport events in my free time
+- Dream of living in 🇨🇦
 
 ## 🎓 Education
 
