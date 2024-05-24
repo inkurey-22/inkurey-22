@@ -25,9 +25,9 @@
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=flat-square&logo=gnu-bash)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 
-## 🎮 Beyond Realms
+## 🎮 [Beyond Realms](https://github.com/BeyondRealms)
 
-I've started my own game programming studio called Beyond Realms. Our first project is a fighting game called [PsykoShowdown](https://github.com/Beyond-Realms/PsykoShowdown). It has just started so stay tuned for more info!
+I've started my own game programming studio called Beyond Realms. Our first project is a fighting game called [PsykoShowdown](https://github.com/Beyond-Realms/PsykoShowdown). It has just started so stay tuned for more info! We also have our last project of our first year at EPITECH, [my_rpg](https://github.com/BeyondRealms/tek_rpg). This one is "finished" but we keep working on it to be as proud of it as we can be
 
 ## 📫 How to reach me
 
