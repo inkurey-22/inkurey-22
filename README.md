@@ -10,7 +10,7 @@
 
 - Currently pursuing my degree in Computer Science at EPITECH Lille.
 
-## 💻 Programming Languages
+## 💻 Programming Languages i'm learning
 
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=black&color=%23A8B9CC)
 ![Cpp](https://img.shields.io/badge/Cpp-black?style=for-the-badge&logo=c%2B%2B&color=%2300599C)
