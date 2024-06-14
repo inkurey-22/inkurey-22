@@ -35,5 +35,5 @@ I've started my own game programming studio called Beyond Realms. Our first proj
 
 ## 📫 How to reach me
 
-- GitHub: [@inkurey-22](https://github.com/inkurey-22)
 - Mail: theophile.riffe@proton.me
+- Discord: inkurey22
