@@ -15,6 +15,7 @@
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&color=%23C36241%20)
 ![Lua](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&color=%232C2D72)
 ![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
+![COBOL](https://img.shields.io/badge/cobol-red?style=for-the-badge&color=4960B6)
 
 ## 💾 What I'd like to learn
 ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-white?style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624)
