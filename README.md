@@ -2,33 +2,31 @@
 
 - First year EPITECH Student
 - Learn computer science and programming with languages like C or Rust and technologies like Docker
-- Want to work in System/Embedded programming or DevOps
+- Want to work in SysOps/DevOps
+- Also interested in System/Embedded Programming
 - Organize esport events in my free time
 
 ## 🎓 Education
 
 - Currently pursuing my degree in Computer Science at EPITECH Lille.
 
-## 💻 Programming Languages I'm learning
+## 💻 What I'm learning
 
+### Programming
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=black&color=%23A8B9CC)
+![Zig](https://img.shields.io/badge/zig-white?style=for-the-badge&logo=Zig&logoColor=white&color=%23F7A41D)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&color=%23C36241%20)
 ![Lua](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&color=%232C2D72)
 ![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
-![COBOL](https://img.shields.io/badge/cobol-red?style=for-the-badge&color=4960B6)
 
-## 💾 What I'd like to learn
-![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-white?style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624)
-![System](https://img.shields.io/badge/system_programming-black?style=for-the-badge&logo=amazonec2&logoColor=yellow)
 
-## 🐳 Other things I'm learning
+### SysOps/DevOps
 
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
-![Nix](https://img.shields.io/badge/Nix-grey?style=for-the-badge&logo=NixOS&logoColor=white&color=%235277C3)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
-![Github Action](https://img.shields.io/badge/action-black?style=for-the-badge&logo=github&color=%23181717)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-white?style=for-the-badge&logo=GitHub%20Actions&logoColor=black&color=%232088FF)
+![Bash](https://img.shields.io/badge/bash-white?style=for-the-badge&logo=GNU%20Bash&logoColor=white&color=%234EAA25)
 
 ## 📫 How to reach me
 
 - Mail: theophile.riffe@proton.me
-- Discord: inkurey22
