@@ -1,6 +1,6 @@
 # Hello, I'm Théophile "Inkurey22" R. 👋
 
-- First year EPITECH Student
+- 2nd year EPITECH Student
 - Learn computer science and programming with languages like C or Rust and technologies like Docker, Ansible, Jenkins...
 - Want to work in SysOps/DevOps
 - Also interested in System/Embedded Programming and everything FOSS related.
@@ -21,6 +21,7 @@
 
 ### SysOps/DevOps
 
+![Nix](https://img.shields.io/badge/nix-blue?style=for-the-badge&logo=nixos&logoColor=white&color=%235277C3)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=jenkins&logoColor=white&color=%23D24939)
 ![Ansible](https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=Ansible&logoColor=white&color=%23EE0000)
